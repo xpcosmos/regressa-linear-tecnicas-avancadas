@@ -1,1 +1,1 @@
-# regressa-linear-tecnicas-avancadas
+# Regressão Linear - Técnicas avançadas
